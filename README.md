@@ -1,4 +1,4 @@
-<img align="left" height="300" src="https://utfs.io/f/nsDFBo8ryoSpeJBuDmlaBh1OpxEH8Fsfq6rX0gUTPGNcR7SZ"  />
+<h1 align="left">hey there 👋 I'm Akash Ghosh</h1>
 
 ###
 
@@ -13,10 +13,6 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="left">hey there 👋 I'm Akash Ghosh</h1>
 
 ###
 
