@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://utfs.io/f/nsDFBo8ryoSp3lOPO2AYXmMGBQ7Z4E9ied3tD8fsK0RoIzwS](https://utfs.io/f/nsDFBo8ryoSp3lOPO2AYXmMGBQ7Z4E9ied3tD8fsK0RoIzwS)
 
-- 📝 I regularly write articles on [https://tech-elevate.onrender.com/blog/Nextjs%2015%20Latest%20Release](https://tech-elevate.onrender.com/blog/Nextjs%2015%20Latest%20Release)
+- 📝 I regularly write articles on [https://tech-elevate.onrender.com](https://tech-elevate.onrender.com)
 
 - 💬 Ask me about **React js, Nodejs, Mongodb**
 
