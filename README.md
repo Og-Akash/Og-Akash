@@ -30,7 +30,7 @@ This structure keeps it concise while maintaining your original tone and energy.
 
 <h3>💻 Tech Stacks</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,tailwind,nextjs,redis,mongodb,mysql,postgres,python,flask,graphql,docker,fastapi" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,tailwind,redux,nextjs,redis,mongodb,mysql,postgres,python,flask,graphql,docker,fastapi" alt="Tech Stack Icons" />
 </p>
 
 ###
