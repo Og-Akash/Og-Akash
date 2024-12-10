@@ -12,7 +12,6 @@
 
 ### 
 
-This structure keeps it concise while maintaining your original tone and energy.
 <h3 align="center">🔗 Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/akash-ghosh-7b0210302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
