@@ -1,11 +1,18 @@
 <h1 align="left">hey there 👋 I'm Akash Ghosh</h1>
 
 ###
+<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
-<span style="fontWeight:bold;">⚒️ I’m a Full Stack Developer </span>—»<span align="left"> who thrives at the intersection of creativity, problem-solving, and technology. While I excel at writing clean, efficient code to build impactful applications, I also embrace the power of AI to amplify my work.
+- ⚒️ **Full Stack Developer** thriving at the intersection of creativity, problem-solving, and technology.  
+- 💻 Skilled at writing clean, efficient code to build impactful, scalable applications.  
+- 🤖 Passionate about **collaborating with AI** to amplify development and stay ahead in the AI era.  
+- 🚀 Leveraging AI tools to **optimize workflows**, **generate creative solutions**, and **enhance user experiences**.  
+- 🔍 Using AI to **debug faster**, streamline development, and bring ideas to life with precision.  
+- ✨ Driven to innovate, adapt, and shape the future of technology by merging code and AI.  
 
-(👉ﾟヮﾟ)👉 In this era of AI, I don’t just code—I collaborate with AI. From using cutting-edge tools to optimize workflows and generate creative solutions to leveraging AI to enhance user experiences, debug faster, and transform ideas into reality, I’m all about staying ahead of the curve.</span> ✍️(◔◡◔)
+### 
 
+This structure keeps it concise while maintaining your original tone and energy.
 <h3 align="center">🔗 Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/akash-ghosh-7b0210302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
@@ -22,9 +29,6 @@
 ###
 
 <h3>💻 Tech Stacks</h3>
-
-<img src="https://media2.giphy.com/media/TaYmMYLtP0RvpDzgn4/giphy.gif?cid=790b76112q7petdntm5jti9e7gxmwu1nwap3v0k59fdu07n3&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="gif" width="450" height="450" />
-
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,tailwind,nextjs,redis,mongodb,mysql,postgres,python,flask,graphql,docker,fastapi" alt="Tech Stack Icons" />
 </p>
@@ -38,6 +42,9 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=og-akash&show_icons=true&locale=en&layout=compact" alt="og-akash" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=og-akash&show_icons=true&locale=en" alt="og-akash" /></p>
 
 ###
