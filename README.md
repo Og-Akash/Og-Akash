@@ -1,9 +1,9 @@
-<h1 align="left">hey there 👋 I'm Akash Ghosh</h1>
+<h1 align="left">Hey there 👋 I'm Akash Ghosh</h1>
 
 ###
 <img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
-- ⚒️ **Full Stack Developer** thriving at the intersection of creativity, problem-solving, and technology.  
+- ⚒️ A **Full Stack Web Developer** thriving at the intersection of creativity, problem-solving, and technology.  
 - 💻 Skilled at writing clean, efficient code to build impactful, scalable applications.  
 - 🤖 Passionate about **collaborating with AI** to amplify development and stay ahead in the AI era.  
 - 🚀 Leveraging AI tools to **optimize workflows**, **generate creative solutions**, and **enhance user experiences**.  
@@ -12,8 +12,9 @@
 
 ### 
 
-<h3 align="center">🔗 Connect with Me</h3>
-<p align="center">
+
+<h3 align="left">🔗 Connect with Me</h3>
+<p align="left">
   <a href="https://www.linkedin.com/in/akash-ghosh-7b0210302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
